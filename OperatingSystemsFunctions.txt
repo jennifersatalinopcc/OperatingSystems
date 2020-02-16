@@ -1,0 +1,6 @@
+User Interface
+Operating systems provide a user interface so that users can input data or instructions and displays data and instructions on the screen.
+User interfaces can be graphical or command-line.
+Most users who are accesing their devices for personal or business purposes use a graphical user interface.
+Users who need more control over relatively small details are more likely to use a command-line interface.
+I first leared the language BASIC in the 7th grade. BASIC is a command-line interface.
