@@ -11,3 +11,8 @@ By pressing the power button, the operating system send power to the processor a
 The operating system then checks the systems of the device, such as RAM, system clock and any periphials (such as a monitor or external keyboard.)
 If the tests are successful, the "kernel" of the operating system, which runs the essential functions of the OS such as memory and resources, is loaded.
 Back in the 1990's, I had issues with a kernal32 file when utilizing software from the US Department of Education. This makes more sense to me now- it was them, not me! (I knew that, as it extended between at least three machines and two different institutions.)
+
+Administering Security
+If a device is connected to a network, the operating system controls the access the device has to network resources.
+The operating system creates User Accounts. Even if you intend to use your device as a stand alone machine, you will still create a user account; this helps provide security so that others may not log into your device and access your information.
+On my MacBook, I have a student account in addition to "my" account. This allows me to log students into the machine to perform whatever tasks they need to do, but while logged in as a student, someone would not have access to my files and information. This would also be helpful on a personal machine if someone wished to provide their child with access to the machine and a few applications, but didn't want to give them access (or the power to alter or delete) their files.
