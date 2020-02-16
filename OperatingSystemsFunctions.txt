@@ -4,3 +4,10 @@ User interfaces can be graphical or command-line.
 Most users who are accesing their devices for personal or business purposes use a graphical user interface.
 Users who need more control over relatively small details are more likely to use a command-line interface.
 I first leared the language BASIC in the 7th grade. BASIC is a command-line interface.
+
+Starting a device
+Operating systems manage the start up process for a computer or other electronic device.
+By pressing the power button, the operating system send power to the processor and identifies the firmware embedded in the device.
+The operating system then checks the systems of the device, such as RAM, system clock and any periphials (such as a monitor or external keyboard.)
+If the tests are successful, the "kernel" of the operating system, which runs the essential functions of the OS such as memory and resources, is loaded.
+Back in the 1990's, I had issues with a kernal32 file when utilizing software from the US Department of Education. This makes more sense to me now- it was them, not me! (I knew that, as it extended between at least three machines and two different institutions.)
